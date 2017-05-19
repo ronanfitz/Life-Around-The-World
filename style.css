@@ -32,3 +32,7 @@ nav {
 .hidden {
     display: none;
 }
+
+#chart {
+  margin-bottom: 20px;
+}
