@@ -3,6 +3,32 @@
   margin-top: -5px;
 }
 
-#categories {
+nav {
   margin-bottom: 20px;
+}
+
+.summary {
+  font-size: 1.3em;
+}
+
+.details {
+  text-decoration: underline;
+}
+
+.card {
+  height: 400px !important;
+  width: 350px !important;
+}
+
+.img {
+  height: 300px !important;
+}
+
+.parallax img {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.hidden {
+    display: none;
 }
